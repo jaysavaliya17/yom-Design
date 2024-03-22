@@ -1,0 +1,25 @@
+.box1{
+    background-color: #F2F2F2 !important;
+    border-bottom: none !important;
+    border: 1px solid #eee;
+}
+.simbol{
+    padding: 5px 10px;
+    border: 1px solid #eee;
+    justify-content: center;
+
+}
+.simbol li a{
+    color: #ffff;
+    background-color:#ddd ;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 15px 5px;
+    transition: .5s;
+
+}
+.simbol li a:hover{
+    background-color: black;
+    transition: .5s;
+}

@@ -1,0 +1,80 @@
+.pintu{
+    background-color: #222222;
+    padding: 70px 0;
+}
+.love{
+    color: #757575;
+    font-size: 3.5rem !important;
+    margin-bottom: 40px;
+}
+
+.hate:hover{
+    color: #78CB01;
+    cursor: pointer;
+
+}
+.p1{
+    color: #757575;
+    margin-bottom: 40px;
+}
+.aui li{
+    color: #757575;
+    font-size: 25px;
+    padding: 0 10px;
+    display: inline-block;
+}
+.aui li:first-child{
+    padding-left: 0 !important;
+}
+.aui li:hover{
+    color: #78CB01;
+    cursor: pointer;
+}
+.topo{
+    color: #333;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+}
+.g-5{
+    --bs-gutter-y: 6rem !important;
+}
+.hero li{
+    color: #757575;
+    text-transform: capitalize;
+    font-size: 17px;
+    padding: 0 5px;
+}
+.hero li:hover{
+    color: #78CB01;
+    cursor: pointer;
+}
+.kite{
+    color: #757575;
+}
+.food{
+    margin-bottom: 10px;
+    
+}
+.merit{
+    letter-spacing: 1px ;
+    background-color: #78CB01 !important;
+    font-size: 20px;
+    border: 0;
+    
+}
+.hero{
+    display: inline-block;
+}
+::selection{
+    color: #fff;
+    background-color: #222222;
+}
+.merit:focus{
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(13, 253, 109, 0.25);
+    transition: .5s;
+}
+/* .merit:hover{
+    opacity: 0.6;
+} */

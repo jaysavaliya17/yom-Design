@@ -1,0 +1,37 @@
+.oyo{
+    background-color: #1F1F1F;
+    padding: 100px 70px;
+}
+.pop{
+    width: 80px;
+    height: 1px;
+    background-color: aliceblue;
+    margin: 15px auto;
+}
+/* .ipo .owl-theme .owl-nav{
+    margin: 50px 0px;
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between !important; */
+/* } */
+.a1{
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+.ji{
+    font-size: 1.5rem;
+    color: #757575;
+}
+.ko{
+    margin-top: 20px;
+}
+.ipo .owl-dots{
+    margin-top: 30px !important;
+}
+.ipo{
+    margin-top: 100px;
+}

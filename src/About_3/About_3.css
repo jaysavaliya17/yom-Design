@@ -1,0 +1,26 @@
+.about3{
+    background-color: #F2F2F2;
+    padding: 100px 0;
+}
+.ola{
+    letter-spacing: 2px;
+}
+.div{
+    height: 1px;
+    width: 80px;
+    background-color: #000;
+    margin:25px auto;
+    margin-bottom: 60px;
+}
+.box3{
+    height: 90px;
+    background-color: #fff;
+    width: 100%;
+    padding: 30px;
+    transition: .5s;
+    margin-bottom: 20px;
+}
+.box3:hover{
+    opacity: 0.5;
+    transition: .5s;
+}

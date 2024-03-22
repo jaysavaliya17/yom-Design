@@ -1,0 +1,16 @@
+.yu{
+    padding: 50px 0;
+    border-bottom: 3px solid gray;
+}
+.jii{
+    letter-spacing: 2px;
+}
+.gta{
+    padding: 20px 40px;
+    letter-spacing: 2px;
+    transition: .5s;
+}
+.gta:hover{
+    opacity: 0.9;
+    transition: .5s;
+}

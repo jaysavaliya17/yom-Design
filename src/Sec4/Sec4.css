@@ -1,0 +1,31 @@
+@media screen and (min-width:768px) {
+    .sec4{
+        padding: 100px 150px;
+    }   
+}
+.jay{
+    line-height: 35px;
+    color: gray;
+    padding-bottom: 50px;
+}
+.op {
+    align-items: center ;
+    
+}
+.lol{
+    text-align: end;
+}
+
+.btn1{
+    padding: 20px 30px;
+    letter-spacing: 3px;
+}
+@media screen and (max-width:768px) {
+    .lol{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .lol1{
+        text-align: center;
+    }
+}

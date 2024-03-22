@@ -1,0 +1,19 @@
+.box{
+    margin: 50px 0;
+    border-bottom: 3px solid gray;
+}
+.jiya{
+    color: gray;
+    /* margin-bottom: 10px !important; */
+    padding-bottom: 10px;
+}
+.kiya a{
+    color: gray;    
+}
+.box_img{
+    transition: .7s;
+}
+.box_img:hover{
+    opacity: 0.5;
+    transition: .7s;
+}

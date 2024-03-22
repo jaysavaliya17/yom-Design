@@ -1,0 +1,23 @@
+.drop-danger a
+{
+    color: #fff;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: large;
+}
+.drop-danger a{
+    color: #fff !important;
+}
+.drop-danger .dropdown-menu a{
+    color: black !important;
+}
+.yom{
+    background: url(./img/2.png);
+    
+    width: 100%;
+    z-index: 1;
+}
+.navbar-toggler{
+    background-color: #fff;
+    color: blanchedalmond;
+}
