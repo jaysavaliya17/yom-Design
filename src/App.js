@@ -6,6 +6,7 @@ import Home from "./Home/Home";
 import Service from "./Service/Service";
 import Blog from "./Blog/Blog";
 import Blogpg from "./Blogpg/Blogpg";
+import './App.css'
 
 
 
